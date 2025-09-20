@@ -7,7 +7,7 @@
 ## How to Run (Colab)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sarahibadi/Student-Performance-Dataset/blob/main/linear_regression_assignment.ipynb)
 
-1. Open the notebook in Google Colab.
+1. Open the assignment in Google Colab, click link above if does not work.
 2. Run all cells top to bottom.
 3. Outputs:
    - `sgd_cv_results.csv`: grid-search results for SGDRegressor (hyperparameters + CV scores).
