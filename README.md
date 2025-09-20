@@ -5,6 +5,8 @@
 - Target variable: G3 (final grade)
 
 ## How to Run (Colab)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sarahibadi/Student-Performance-Dataset/blob/main/linear_regression_assignment.ipynb)
+
 1. Open the notebook in Google Colab.
 2. Run all cells top to bottom.
 3. Outputs:
