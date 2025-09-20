@@ -1,5 +1,9 @@
 # Student-Performance-Dataset - Linear Regression Assignment CS 4372
 
+- Dataset: Student Performance (Mat)
+- Public link: https://archive.ics.uci.edu/ml/machine-learning-databases/00320/student-mat.csv
+- Target variable: G3 (final grade)
+
 ## How to Run (Colab)
 1. Open the notebook in Google Colab.
 2. Run all cells top to bottom.
