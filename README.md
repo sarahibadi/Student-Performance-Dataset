@@ -8,11 +8,11 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sarahibadi/Student-Performance-Dataset/blob/main/linear_regression_assignment.ipynb)
 
 1. Open the assignment in Google Colab, click link above if does not work.
-2. Run all cells top to bottom.
+2. Run all cells top to bottom
 3. Outputs:
-   - `sgd_cv_results.csv`: grid-search results for SGDRegressor (hyperparameters + CV scores).
-   - `summary_metrics.csv`: side-by-side metrics (R², RMSE, MAE) for SGD and OLS.
-   - Plots: distributions, correlation heatmap, residual diagnostics.
+   - `sgd_cv_results.csv`: grid-search results for SGDRegressor (hyperparameters + CV scores)
+   - `summary_metrics.csv`: side-by-side metrics (R², RMSE, MAE) for SGD and OLS
+   - Plots: distributions, correlation heatmap, residual diagnostics
 
 
 ## Requirements
